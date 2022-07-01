@@ -6,4 +6,10 @@ Giraffe
 Lion
 
 
+Zebra
+
+
+Panther
+
+
 
